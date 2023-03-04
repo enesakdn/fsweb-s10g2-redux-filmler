@@ -64,9 +64,9 @@ Bu projede, küçük bir film veritabanı içeren bir web uygulamasında çalı�
 
 - [ ] **Yeni reducerınızı ./reducers/index.js dosyasına import edin.** Başlangıç ta, switch deyimine yalnızca bir default case ekleyin.
 
-- [ ] **reducers/index.js'de hem filmleri hem de favori filmleri redux'a bağlamak için CombineReducers metodunu kullanın.**
+- [] **reducers/index.js'de hem filmleri hem de favori filmleri redux'a bağlamak için CombineReducers metodunu kullanın.**
 
-- [ ] **Film işlevlerinizin artık çalışmadığına dikkat edin. Neden?** Film reducera bağlı bileşenin tekrar çalışmasını sağlamak için gerekli değişiklikleri yapın.
+- [+ 2 saat bulamadım ] **Film işlevlerinizin artık çalışmadığına dikkat edin. Neden?** Film reducera bağlı bileşenin tekrar çalışmasını sağlamak için gerekli değişiklikleri yapın.
 
 - [ ] Store içerisinden `favorites` değerini FavoriteMovieList bileşenine bağlayın ve test edin. (ipucu: yine useSelector kullanın)
 
